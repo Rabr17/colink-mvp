@@ -1,5 +1,7 @@
 # COLINK MVP
 
+![COLINK MVP](./screenshots/invoice-qr.png)
+
 XRPL settlement and merchant intelligence MVP built on the XRP Ledger.
 
 ---
